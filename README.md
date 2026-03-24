@@ -55,7 +55,7 @@ try:
 except:
     print("Invalid input! Please enter numeric values.")
 ```
-▶️ Sample Output
+## ▶️ Sample Output
 === BMI Calculator ===
 Enter weight (kg): 70
 Enter height (meters): 1.75
@@ -63,14 +63,14 @@ Your BMI is: 22.86
 Normal 😊 - Keep maintaining!
 🌱 SDG Mapping
 
-This project supports:
-SDG 3 – Good Health & Well-being
+# This project supports:
+Good Health & Well-being
 
-It helps individuals:
+# It helps individuals:
 
 Monitor their health status
 Understand BMI categories
 Take basic steps toward a healthier lifestyle
-✅ Conclusion
+## ✅ Conclusion
 
 The BMI Calculator is a simple yet effective tool that promotes health awareness. By providing instant feedback and suggestions, it encourages users to maintain a healthy lifestyle, contributing to the goals of SDG 3.
