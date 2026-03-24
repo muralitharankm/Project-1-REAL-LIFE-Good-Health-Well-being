@@ -56,6 +56,8 @@ except:
     print("Invalid input! Please enter numeric values.")
 ```
 ## ▶️ Sample Output
+<img width="1476" height="793" alt="image" src="https://github.com/user-attachments/assets/21bf69f2-32b4-4b19-9703-7c12bd530f6b" />
+
 === BMI Calculator ===
 Enter weight (kg): 70
 Enter height (meters): 1.75
