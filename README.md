@@ -1,11 +1,10 @@
 # Project-1-REAL-LIFE-Good-Health-Well-being
-🌍 SDG 3: Good Health & Well-being
-🧮 Project: BMI Calculator with Health Advice
-🎯 Aim
-
+## 🌍 SDG 3: Good Health & Well-being
+## 🧮 Project: BMI Calculator with Health Advice
+## 🎯 Aim
 To develop a Python-based application that calculates the Body Mass Index (BMI) of a user and provides basic health suggestions based on the result, promoting awareness about healthy living in alignment with SDG 3 (Good Health & Well-being).
 
-🛠️ Objectives
+## 🛠️ Objectives:
 To calculate BMI using user input (weight and height)
 To classify BMI into health categories
 To provide simple health recommendations
@@ -27,7 +26,7 @@ Obese
 Display corresponding health advice
 Handle invalid inputs using exception handling
 End the program
-💻 Python Code
+## 💻 Python Code:
 ```py
 def calculate_bmi(weight, height):
     return weight / (height ** 2)
