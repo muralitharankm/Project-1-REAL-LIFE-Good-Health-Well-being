@@ -64,6 +64,8 @@ Enter height (meters): 1.75
 Your BMI is: 22.86
 Normal 😊 - Keep maintaining!
 🌱 SDG Mapping
+# output:
+<img width="1903" height="1078" alt="image" src="https://github.com/user-attachments/assets/e22ddaa9-da03-4eea-9160-25e9bc351319" />
 
 # This project supports:
 Good Health & Well-being
